@@ -58,7 +58,7 @@ a {
 .main {
   flex: 1;
   display: flex;
-  align-items: flex-end;
+  align-items: center;
   min-height: calc(100vh - 120px);
   padding-top: 40px;
 }
